@@ -86,7 +86,7 @@
 		<spring-shell.version>1.2.0.RELEASE</spring-shell.version>
 		<!-- Use older flyway until we can use flaway 6.x given to us from boot -->
 		<flyway.version>5.2.4</flyway.version>
-		<commons-io.version>2.4</commons-io.version>
+		<commons-io.version>2.7</commons-io.version>
 		<commons-lang.version>2.4</commons-lang.version>
 
 		<jacoco-maven-plugin.version>0.7.9</jacoco-maven-plugin.version>
